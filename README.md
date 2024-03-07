@@ -6,7 +6,7 @@ AIRBnB_clone_v2 is a continuation of the Airbnb website with integration of MYSQ
 -----
 Testing onebyte branch
 -----
-This is a continuation of the initial airbn  repo which I, Bukola Olatunji and Emmanuel Ndubuisi have forked.
+This is a continuation of the initial airbn repo which Bukola Olatunji and Emmanuel Ndubuisi have forked.
 
 <center><h3>Repository Contents by Project Task</h3> </center>
 
